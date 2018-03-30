@@ -1,8 +1,9 @@
-# Bubble
+# bAbI
 
 This repository contains a simple Question Answering algorithm developed in Tensorflow. 
 We'll use the bAbI tasks 1-20, created by facebook, for testing the capacity of our algorithm to understand and reason the text.
 
+It uses only a single GRU layer but perform better than the Facebook LSTM Baseline and Keras babi_rnn
 
 ## Getting Started
 
